@@ -1,0 +1,15 @@
+#edit {
+  font-size: 25px;
+  cursor: pointer;
+  transition: all 0.5s ease-in;
+}
+#edit:hover {
+  transform: rotate(30deg);
+}
+#Delete {
+  font-size: 25px;
+  transition: all 0.5s ease-in;
+}
+#Delete:hover {
+  transform: rotate(-30deg);
+}
